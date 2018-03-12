@@ -1,0 +1,18 @@
+c:\users\administrador\documents\visual studio 2013\Projects\caixa\caixa\bin\Debug\caixa.exe.config
+c:\users\administrador\documents\visual studio 2013\Projects\caixa\caixa\bin\Debug\caixa.exe
+c:\users\administrador\documents\visual studio 2013\Projects\caixa\caixa\bin\Debug\caixa.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\caixa\caixa\obj\Debug\caixa.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2013\Projects\caixa\caixa\obj\Debug\caixa.Form1.resources
+c:\users\administrador\documents\visual studio 2013\Projects\caixa\caixa\obj\Debug\caixa.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2013\Projects\caixa\caixa\obj\Debug\caixa.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2013\Projects\caixa\caixa\obj\Debug\caixa.exe
+c:\users\administrador\documents\visual studio 2013\Projects\caixa\caixa\obj\Debug\caixa.pdb
+C:\Users\Antonio\Desktop\caixa\caixa\bin\Debug\caixa.exe.config
+C:\Users\Antonio\Desktop\caixa\caixa\obj\Debug\caixa.exe
+C:\Users\Antonio\Desktop\caixa\caixa\obj\Debug\caixa.pdb
+C:\Users\Antonio\Desktop\caixa\caixa\bin\Debug\caixa.exe
+C:\Users\Antonio\Desktop\caixa\caixa\bin\Debug\caixa.pdb
+C:\Users\Antonio\Desktop\caixa\caixa\obj\Debug\caixa.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\caixa\caixa\obj\Debug\caixa.Form1.resources
+C:\Users\Antonio\Desktop\caixa\caixa\obj\Debug\caixa.Properties.Resources.resources
+C:\Users\Antonio\Desktop\caixa\caixa\obj\Debug\caixa.csproj.GenerateResource.Cache
